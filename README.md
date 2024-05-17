@@ -7,6 +7,7 @@ Features:
 •	Real-Time Countdown: The countdown to Christmas is displayed in days, hours, minutes, and seconds, updating in real time.
 •	Date Calculations: Demonstrates the use of JavaScript's Date object to perform date calculations, essential for determining the exact time left until Christmas.
 
+
 Learning Outcomes:
 •	Date Object Mastery: Gained an understanding of the JavaScript Date object, learning how to calculate differences between dates and times precisely.
 •	SetInterval and ClearInterval Usage: Learned to use JavaScript's setInterval and clearInterval functions to create and control periodic operations.

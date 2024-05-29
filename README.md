@@ -18,4 +18,5 @@ The core functionality of this application revolves around calculating the time 
 * CSS for styling and animations
 * JavaScript for logic and DOM interactions
 
-![image](https://github.com/dinarayakupova/christmasCountdown/assets/124091658/67989c45-b4dc-4d61-ada4-0c4036e6f84d)
+## Link to the app: 
+https://coming-home-for-christmas.glitch.me/
